@@ -2,8 +2,7 @@
 
 1. Upload your pictures.
 2. Name them uniquely.
-3. One uploaded click on the link and when the image displays right-click it and copy-address.
-3a. You may also right-click the link without opening the image, select copy-address there as well.
+3. Once uploaded click on the link and when the image displays right-click it and copy image-address.
 4. Now you can paste this into the URL fields to display the image.
 
 NOTE: Make sure the image is not too large, as the space is small.
